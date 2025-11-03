@@ -49,7 +49,7 @@
 { "s": ["replicate", "mimic", "learn from"], "a": "deviate" },
 { "s": ["conflict resolution", "de-escalation", "core values"], "a": "escalation" },
 { "s": ["teach by modeling", "show, then tell", "straightforward delivery"], "a": "obscure explanation" },
-{ "s": ["hierarchical corporate structure", "chain of command", "management team"], "a": "flat organization" },
+{ "s": ["hierarchical corporate structure", "chain of command", "centralized management"], "a": "flat organization" },
 { "s": ["Avant-garde", "Iconoclastic", "Experimental"], "a": "Derivative" },
 { "s": ["Uninhibited", "Effusive", "Articulate"], "a": "Tongue-tied" },
 { "s": ["Galvanizing", "Heartening", "Emboldening"], "a": "Demoralizing" },
