@@ -1,387 +1,392 @@
 {
-"flashcards": [
-"eloquent",
-"gregarious",
-"resilience",
-"ubiquitous",
-"ephemeral",
-"serendipity",
-"magnanimous",
-"perspicacious",
-"conundrum",
-"juxtaposition",
-"candor",
-"meticulous",
-"pragmatic",
-"candid",
-"altruistic",
-"tenacious",
-"astute",
-"fortuitous",
-"idiosyncratic",
-"ubiquity"
-],
-"antonym": [
- { "s": ["Visionary", "Maverick", "Whimsical"], "a": "Conventional" },
- { "s": ["Authentic", "Genuine", "Candid"], "a": "Inauthentic" },
- { "s": ["Compassionate", "Empathetic", "Benevolent"], "a": "Cruel" },
- { "s": ["Dependable", "Trustworthy", "Loyal"], "a": "Unreliable" },
- { "s": ["Humble", "Modest", "Grounded"], "a": "Arrogant" },
- { "s": ["Encouraging", "Supportive", "Inspiring"], "a": "Discouraging" },
- { "s": ["Gracious", "Courteous", "Polite"], "a": "Rude" },
- { "s": ["Prudent", "Judicious", "Discreet"], "a": "Reckless" },
- { "s": ["Erudite", "Astute", "Perceptive"], "a": "Ignorant" },
- { "s": ["Tenacious", "Resolute", "Relentless"], "a": "Faint-hearted" },
- { "s": ["Proactive", "Driven", "Ambitious"], "a": "Lethargic" },
- { "s": ["Meticulous", "Strategic", "Resourceful"], "a": "Sloppy" },
- { "s": ["Open-minded", "Enlightened", "Rational"], "a": "Dogmatic" },
- { "s": ["Introspective", "Cultivated", "Philosophical"], "a": "Shallow" },
- { "s": ["Aesthetic", "Expressive", "Colorful"], "a": "Bland" },
- { "s": ["Charismatic", "Affectionate", "Understanding"], "a": "Aloof" },
- { "s": ["Witty", "Perceptive", "Sage"], "a": "Obtuse" },
- { "s": ["Resilient", "Audacious", "Brave"], "a": "Timid" },
- { "s": ["go viral", "make headlines", "break the internet"], "a": "go unnoticed" },
- { "s": ["spin the story", "sound bite", "off the record"], "a": "transparent reporting" },
- { "s": ["media circus", "clickbait", "echo chamber"], "a": "sober analysis" },
- { "s": ["off the beaten track", "pedal to the metal", "smooth sailing"], "a": "go nowhere fast" },
- { "s": ["unconsciously", "subconsciously", "behavioral pattern"], "a": "conscious control" },
- { "s": ["replicate", "mimic", "learn from"], "a": "deviate" },
- { "s": ["conflict resolution", "de-escalation", "core values"], "a": "escalation" },
- { "s": ["teach by modeling", "show, then tell", "straightforward delivery"], "a": "obscure explanation" },
- { "s": ["hierarchical corporate structure", "chain of command", "centralized management"], "a": "flat organization" },
- { "s": ["Avant-garde", "Iconoclastic", "Experimental"], "a": "Derivative" },
- { "s": ["Uninhibited", "Effusive", "Articulate"], "a": "Tongue-tied" },
- { "s": ["Galvanizing", "Heartening", "Emboldening"], "a": "Demoralizing" },
- { "s": ["Diplomatic", "Civil", "Deferential"], "a": "Impertinent" },
- { "s": ["Sagacious", "Level-headed", "Circumspect"], "a": "Impetuous" },
- { "s": ["Perspicacious", "Incisive", "Discerning"], "a": "Dull-witted" },
- { "s": ["Indefatigable", "Enterprising", "Purposeful"], "a": "Listless" },
- { "s": ["Methodical", "Systematic", "Calculating"], "a": "Haphazard" },
- { "s": ["Receptive", "Tolerant", "Broad-minded"], "a": "Closed-minded" },
- { "s": ["set the agenda", "shape the narrative", "bury the lede"], "a": "fly under the radar" },
- { "s": ["news hook", "editorial line", "talking points"], "a": "radio silence" }
-],
-
-"tongueTwisterData": [
-{
-"group": "[v vs w]",
-"phonemes": ["/v/", "/w/"],
-"sentences": [
-"While Wendy was weaving warm wool, Victor verified the velvet voucher and waved at the warehouse window.",
-"Weary villagers waited in the valley while Vera vowed to video the vivid waterfall."
-]
-},
-{
-"group": "[θ (thin) vs s]",
-"phonemes": ["/θ/", "/s/"],
-"sentences": [
-"Three thin thieves thoughtfully threaded thirty silk sashes through thick thistle thorns without a single scratch.",
-"Theo thinks the thermostat’s theme is subtle, but six students say the setting still seems too stiff."
-]
-},
-{
-"group": "[ð (this) vs z]",
-"phonemes": ["/ð/", "/z/"],
-"sentences": [
-"These zealous zoologists gather those zesty datasets, then these analysts theorize why those zebras zigzag.",
-"Those zero-sum theories puzzle these thinkers, though these others prize those zany, buzzing hypotheses.",
-"We breathe beneath the eaves while the sea breeze weaves through the leaves; Keith believes the breeze eases if we breathe evenly.",
-"Please breathe before you seize the sleeves, because the brief breeze freezes the quay; Bree breathed slowly as the breeze teased the trees."
-]
-},
-{
-"group": "[f vs h]",
-"phonemes": ["/f/", "/h/"],
-"sentences": [
-"Fiona fried fresh fish while Hank heated hearty hash, and the family felt full before the hikers hurried home.",
-"Farmers fixed fences as hot winds hissed; later, hikers found the high foothills felt friendly."
-]
-},
-{
-"group": "[/ɪ/ (ship) vs /iː/ (sheep)]",
-"phonemes": ["/ɪ/", "/iː/"],
-"sentences": [
-"Pete steered the sleek ship to meet the meek sheep at the steep seaside, while Pip slipped and missed his ticket.",
-"The fleet needs clean sheets and neat meals, but the little ship’s kitchen still sticks and drips."
-]
-},
-{
-"group": "[/ʊ/ (full) vs /uː/ (fool)]",
-"phonemes": ["/ʊ/", "/uː/"],
-"sentences": [
-"Luke stood with a full rucksack by the school, but Lou, the class clown, yelled “Move!” like a fool and tripped over the stool.",
-"Brooke put books in the full blue cupboard, yet Bruce, too cool, chose to loop the route to the room."
-]
-},
-{
-"group": "[/æ/ (cat) vs /e/ (bed)]",
-"phonemes": ["/æ/", "/e/"],
-"sentences": [
-"The black cat napped on Jack’s backpack, while Ben set the red bed near the desk and kept his pen ready.",
-"Pam had a stack of maps, but Deb kept a set of menus; the cat sat on the mat as the guests headed to bed."
-]
-},
-{
-"group": "[/æ/ (cap) vs /ʌ/ (cup)]",
-"phonemes": ["/æ/", "/ʌ/"],
-"sentences": [
-"Pat grabbed a cap and dashed for the cab, while Gus clutched a cup and trudged up the bus steps in a rush.",
-"Jack packed snacks and caps in a canvas bag; Judd dug up mugs and cups, then snugged them under the truck."
-]
-},
-{
-"group": "[/ɒ/ (cot) vs /ɔː/ (caught)]",
-"phonemes": ["/ɒ/", "/ɔː/"],
-"sentences": [
-"Tom got a cotton cot for the cold loft, but Dawn caught a warm thought and bought broad boards for the floor.",
-"Don locked the shop at one o’clock; Dawn, who’d caught the forecast, bought more salt for the storm."
-]
-},
-{
-"group": "[final s /s/ vs z /z/ (rice vs rise)]",
-"phonemes": ["/s/", "/z/"],
-"sentences": [
-"As the sun begins to rise, Rose rinses rice and arranges bowls, while Lewis organizes supplies and closes the doors.",
-"Denise weighs bags of rice as the prices rise, and Carlos analyzes sales before he files the reports."
-]
-},
-{
-"group": "[/aʊn/ vs /ʌn/]",
-"phonemes": ["/aʊn/", "/ʌn/"],
-"sentences": [
-"The town council wrote the rules down, but one young runner was done before the countdown even sounded.",
-"She counted every noun in the passage and jotted them down, while none of the others had done even one.",
-"We drove around the brown town at sundown, then ran one lap and were done by sunup.",
-"A hound on the hunt gave a grunt on the ground, another hound on the hunt heard the grunt and the sound, so he joined in the hunt with a grunt on the ground."
-]
-},
-{
-"group": "[/aʊn/ vs /ɒn/]",
-"phonemes": ["/aʊn/", "/ɒn/"],
-"sentences": [
-"He found a one-pound coin on the path, walked to the pond, flipped the pound in the air, and heard it plop into the pond.",
-"Workers pound wooden posts into the ground around the pond to anchor the rail, while the ranger surveys the pond for frogs.",
-"Don switched the lights on in the town hall, and the crowd sat down around the brown stage.",
-"John put on his gown in the old town and wrote the rules down before the camera went on.",
-"The clown drove around the town at sundown while Don waited on the corner with his badge on.",
-"We passed around the brown gown for costumes, and John tried it on when his name was called.",
-"The choir sat down as the town bell rang, and Don turned the microphones on for the next round.",
-"The teacher told them to note each key noun and write it down, while John kept the timer on.",
-"The town council pinned a brown crown cutout down, and Don checked whether the sign was still on.",
-"Tour guides led us around the old town, then John pressed on with the talk while we settled down.",
-"The judge sat down in the town court, and Don switched on the clock to begin the session.",
-"We cooled down by the town gate while John left the porch light on so everyone could see."
-]
-},
-{
-"group": "[/aʊn/ vs /ɒn/ vs /ʌn/]",
-"phonemes": ["/aʊn/", "/ɒn/", "/ʌn/"],
-"sentences": [
-"Don wrote the rule down, but Don said it was already done.",
-"The town planned a fair; John put the signs on; by noon the setup was done.",
-"She counted each noun, skipped each non-example, and marked none as done.",
-"He tossed a pound to the pond fund and joked that one more pun would get it done.",
-"They found the trail, ignored the fond detours, and raised a fund when the work was done.",
-"The hound waited by John while the hungry kids wrote the chores down and got them done.",
-"We cooled down in the old John-street ton-weight room after the lifts were done.",
-"She set the sound meter on, greeted her son, and said the tests were almost done.",
-"The town clock went on at dawn; by dusk a ton of repairs were done.",
-"He tried the green gown, checked if it was on, then declared the tailoring done.",
-"The judge wrote down the charge, the clerk put it on file, and the payment was done by noon.",
-"We passed around the list, pinned it on the board, and crossed off each task as done."
-]
-},
-{
-"group": "[/eɪn/ vs /æn/]",
-"phonemes": ["/eɪn/", "/æn/"],
-"sentences": [
-"Jane saw heavy rain, while Jan said he already ran and planned a new plan for the late train.",
-"We will plan the route before the plane, then write it down so the rain won’t ruin what we planned.",
-"The baker sifted bran as the intern studied a brain scan and Jane explained the plan again.",
-"The coach said Stan should avoid a sprain, so stain guards were cleaned after the match and the plan remained the same in the rain.",
-"Chan drew a chain on the map; the team ran the trail while light rain cooled the plain.",
-"We can test the cane and the crane on-site, but we can’t switch the plan if the rain delays the plane."
-]
-},
-{
-"group": "[/ɒ/ vs /ɔːl/]",
-"phonemes": ["/ɒ/", "/ɔːl/"],
-"sentences": [
-"He placed a camping cot by the wall, then took a call in the hall and forgot the cooking pot.",
-"Paul checked the pot on the hob, then made the call to install a second cot for the guest.",
-"The boss saw a chipped ball in the hall, swapped the broken box, and logged the loss.",
-"We will stock the shop before the lunch stall, then spot each shortfall and restock what we saw on the wall of the hall.",
-"She hung a winter shawl by the clock, wiped the shop top, and wrote one more call note on the log.",
-"He set the collar tag correctly so the caller could reach us; later, a loose bottle cap fell near the ball rack while I stirred the pot."
-]
-},
-{
-"group": "[/æn/ vs /ɛn/]",
-"phonemes": ["/æn/", "/ɛn/"],
-"sentences": [
-"The man asked the men to pass the map, and the men handed the man a pen.",
-"Jan planned the route while Jen penned reminders and sent them at ten.",
-"We set the frying pan beside the red pen, then the chef said the pan can stay but the pen must go.",
-"If you can, ask Ken to check the van; if Ken cannot, you can send an email.",
-"We will land the deal today, but we will not lend funds until Monday.",
-"Do not dump sand in the chute; send the bags to the site instead.",
-"The team met in Canton while Kenton called in from the road and then sent the agenda.",
-"The base camp opened at dawn, and Kemp confirmed the permits by ten.",
-"Brandon mapped the canyon while Brendan amended the tender and sent notes to the panel.",
-"We moved the fallen branch off the path and then lifted the park bench to the lawn for the event."
-]
-}
-],
-"pronunciation": [
- { "correct": "second language acquisition", "distractors": ["second-language acquisition", "second language aquisition", "second languages acquisition"], "translation": "二语习得" },
-],
-
-"minimalPairs": [
-{ "correct": "desert", "distractor": "dessert" },
-{ "correct": "metal", "distractor": "medal" },
-{ "correct": "ship", "distractor": "sheep" },
-{ "correct": "live", "distractor": "leave" },
-{ "correct": "bit", "distractor": "beat" },
-{ "correct": "sit", "distractor": "seat" },
-{ "correct": "fill", "distractor": "feel" },
-{ "correct": "full", "distractor": "fool" },
-{ "correct": "pull", "distractor": "pool" },
-{ "correct": "rich", "distractor": "reach" },
-{ "correct": "slip", "distractor": "sleep" },
-{ "correct": "rid", "distractor": "reed" },
-{ "correct": "bin", "distractor": "bean" },
-{ "correct": "hid", "distractor": "heed" },
-{ "correct": "wick", "distractor": "week" },
-{ "correct": "mill", "distractor": "meal" },
-{ "correct": "pill", "distractor": "peel" },
-{ "correct": "still", "distractor": "steel" },
-{ "correct": "grin", "distractor": "green" },
-{ "correct": "lick", "distractor": "leak" },
-{ "correct": "fit", "distractor": "feet" },
-{ "correct": "list", "distractor": "least" },
-{ "correct": "sick", "distractor": "seek" },
-{ "correct": "chip", "distractor": "cheap" },
-{ "correct": "pitch", "distractor": "peach" },
-{ "correct": "pan", "distractor": "pen" },
-{ "correct": "bad", "distractor": "bed" },
-{ "correct": "bat", "distractor": "bet" },
-{ "correct": "man", "distractor": "men" },
-{ "correct": "back", "distractor": "beck" },
-{ "correct": "jam", "distractor": "gem" },
-{ "correct": "pack", "distractor": "peck" },
-{ "correct": "mat", "distractor": "met" },
-{ "correct": "sad", "distractor": "said" },
-{ "correct": "ham", "distractor": "hem" },
-{ "correct": "cap", "distractor": "cup" },
-{ "correct": "back", "distractor": "buck" },
-{ "correct": "bat", "distractor": "but" },
-{ "correct": "pan", "distractor": "pun" },
-{ "correct": "bag", "distractor": "bug" },
-{ "correct": "cut", "distractor": "cot" },
-{ "correct": "luck", "distractor": "lock" },
-{ "correct": "duck", "distractor": "dock" },
-{ "correct": "mug", "distractor": "mog" },
-{ "correct": "sun", "distractor": "son" },
-{ "correct": "foot", "distractor": "food" },
-{ "correct": "full", "distractor": "fool" },
-{ "correct": "pull", "distractor": "pool" },
-{ "correct": "could", "distractor": "cooed" },
-{ "correct": "wood", "distractor": "wooed" },
-{ "correct": "late", "distractor": "let" },
-{ "correct": "made", "distractor": "med" },
-{ "correct": "sale", "distractor": "sell" },
-{ "correct": "pain", "distractor": "pen" },
-{ "correct": "tail", "distractor": "tell" },
-{ "correct": "not", "distractor": "note" },
-{ "correct": "cot", "distractor": "coat" },
-{ "correct": "rod", "distractor": "road" },
-{ "correct": "got", "distractor": "goat" },
-{ "correct": "hop", "distractor": "hope" },
-{ "correct": "rob", "distractor": "robe" },
-{ "correct": "con", "distractor": "cone" },
-{ "correct": "cod", "distractor": "code" },
-{ "correct": "tot", "distractor": "toad" },
-{ "correct": "on", "distractor": "own" },
-{ "correct": "law", "distractor": "low" },
-{ "correct": "walk", "distractor": "woke" },
-{ "correct": "cork", "distractor": "coke" },
-{ "correct": "bought", "distractor": "boat" },
-{ "correct": "saw", "distractor": "so" },
-{ "correct": "born", "distractor": "bone" },
-{ "correct": "form", "distractor": "foam" },
-{ "correct": "short", "distractor": "shot" },
-{ "correct": "ground", "distractor": "grunt" },
-{ "correct": "pet", "distractor": "fat" },
-{ "correct": "collar", "distractor": "caller" },
-{ "correct": "pool", "distractor": "pole" },
-{ "correct": "goal", "distractor": "gall" },
-{ "correct": "dole", "distractor": "doll" },
-{ "correct": "coat", "distractor": "court" },
-{ "correct": "foal", "distractor": "fall" },
-{ "correct": "code", "distractor": "cawed" },
-{ "correct": "load", "distractor": "loud" },
-{ "correct": "rode", "distractor": "rod" },
-{ "correct": "tone", "distractor": "ton" },
-{ "correct": "heat", "distractor": "hit" },
-{ "correct": "beat", "distractor": "bit" },
-{ "correct": "heel", "distractor": "hill" },
-{ "correct": "peel", "distractor": "pill" },
-{ "correct": "leap", "distractor": "lip" },
-{ "correct": "pen", "distractor": "pin" },
-{ "correct": "set", "distractor": "sit" },
-{ "correct": "men", "distractor": "min" },
-{ "correct": "bed", "distractor": "bid" },
-{ "correct": "ledge", "distractor": "lid" },
-{ "correct": "cap", "distractor": "cab" },
-{ "correct": "rip", "distractor": "rib" },
-{ "correct": "cup", "distractor": "cub" },
-{ "correct": "back", "distractor": "bag" },
-{ "correct": "pick", "distractor": "pig" },
-{ "correct": "glass", "distractor": "grass" },
-{ "correct": "right", "distractor": "light" },
-{ "correct": "rice", "distractor": "lice" },
-{ "correct": "road", "distractor": "load" },
-{ "correct": "vest", "distractor": "west" },
-{ "correct": "thin", "distractor": "tin" },
-{ "correct": "think", "distractor": "sink" },
-{ "correct": "seat", "distractor": "sheet" },
-{ "correct": "sip", "distractor": "ship" },
-{ "correct": "sale", "distractor": "shale" },
-{ "correct": "sin", "distractor": "sing" },
-{ "correct": "run", "distractor": "rung" },
-{ "correct": "fan", "distractor": "fang" },
-{ "correct": "tan", "distractor": "tang" },
-{ "correct": "thin", "distractor": "thing" },
-{ "correct": "a big ship", "distractor": "a big sheep" },
-{ "correct": "I live here", "distractor": "I leave here" },
-{ "correct": "sit down, please", "distractor": "seat down, please" },
-{ "correct": "fill the bin", "distractor": "feel the bean" },
-{ "correct": "pull the door", "distractor": "pool the door" },
-{ "correct": "a black pen", "distractor": "a black pan" },
-{ "correct": "bad weather", "distractor": "bed weather" },
-{ "correct": "that man is tall", "distractor": "that men are tall" },
-{ "correct": "pack your bag", "distractor": "peck your bag" },
-{ "correct": "sit on the mat", "distractor": "sit on the met" },
-{ "correct": "cap on the desk", "distractor": "cup on the desk" },
-{ "correct": "a bat in the box", "distractor": "a but in the box" },
-{ "correct": "back to class", "distractor": "buck to class" },
-{ "correct": "pan of soup", "distractor": "pun of soup" },
-{ "correct": "bag of rice", "distractor": "bug of rice" },
-{ "correct": "cut the rope", "distractor": "cot the rope" },
-{ "correct": "lucky day", "distractor": "locky day" },
-{ "correct": "a duck there", "distractor": "a dock there" },
-{ "correct": "the sun is up", "distractor": "the son is up" },
-{ "correct": "foot on the brake", "distractor": "food on the brake" },
-{ "correct": "late for class", "distractor": "let for class" },
-{ "correct": "tail is short", "distractor": "tell is short" },
-{ "correct": "not today", "distractor": "note today" },
-{ "correct": "got a ticket", "distractor": "goat a ticket" },
-{ "correct": "hop over it", "distractor": "hope over it" },
-{ "correct": "he called me", "distractor": "he caught me" },
-{ "correct": "the road is busy", "distractor": "the load is busy" },
-{ "correct": "right side", "distractor": "light side" },
-{ "correct": "thin book", "distractor": "tin book" },
-{ "correct": "seat is taken", "distractor": "sheet is taken" }
-
-]
+  "flashcards": [
+    "eloquent",
+    "gregarious",
+    "resilience",
+    "ubiquitous",
+    "ephemeral",
+    "serendipity",
+    "magnanimous",
+    "perspicacious",
+    "conundrum",
+    "juxtaposition",
+    "candor",
+    "meticulous",
+    "pragmatic",
+    "candid",
+    "altruistic",
+    "tenacious",
+    "astute",
+    "fortuitous",
+    "idiosyncratic",
+    "ubiquity"
+  ],
+  "antonym": [
+    { "s": ["Visionary", "Maverick", "Whimsical"], "a": "Conventional" },
+    { "s": ["Authentic", "Genuine", "Candid"], "a": "Inauthentic" },
+    { "s": ["Compassionate", "Empathetic", "Benevolent"], "a": "Cruel" },
+    { "s": ["Dependable", "Trustworthy", "Loyal"], "a": "Unreliable" },
+    { "s": ["Humble", "Modest", "Grounded"], "a": "Arrogant" },
+    { "s": ["Encouraging", "Supportive", "Inspiring"], "a": "Discouraging" },
+    { "s": ["Gracious", "Courteous", "Polite"], "a": "Rude" },
+    { "s": ["Prudent", "Judicious", "Discreet"], "a": "Reckless" },
+    { "s": ["Erudite", "Astute", "Perceptive"], "a": "Ignorant" },
+    { "s": ["Tenacious", "Resolute", "Relentless"], "a": "Faint-hearted" },
+    { "s": ["Proactive", "Driven", "Ambitious"], "a": "Lethargic" },
+    { "s": ["Meticulous", "Strategic", "Resourceful"], "a": "Sloppy" },
+    { "s": ["Open-minded", "Enlightened", "Rational"], "a": "Dogmatic" },
+    { "s": ["Introspective", "Cultivated", "Philosophical"], "a": "Shallow" },
+    { "s": ["Aesthetic", "Expressive", "Colorful"], "a": "Bland" },
+    { "s": ["Charismatic", "Affectionate", "Understanding"], "a": "Aloof" },
+    { "s": ["Witty", "Perceptive", "Sage"], "a": "Obtuse" },
+    { "s": ["Resilient", "Audacious", "Brave"], "a": "Timid" },
+    { "s": ["go viral", "make headlines", "break the internet"], "a": "go unnoticed" },
+    { "s": ["spin the story", "sound bite", "off the record"], "a": "transparent reporting" },
+    { "s": ["media circus", "clickbait", "echo chamber"], "a": "sober analysis" },
+    { "s": ["off the beaten track", "pedal to the metal", "smooth sailing"], "a": "go nowhere fast" },
+    { "s": ["unconsciously", "subconsciously", "behavioral pattern"], "a": "conscious control" },
+    { "s": ["replicate", "mimic", "learn from"], "a": "deviate" },
+    { "s": ["conflict resolution", "de-escalation", "core values"], "a": "escalation" },
+    { "s": ["teach by modeling", "show, then tell", "straightforward delivery"], "a": "obscure explanation" },
+    { "s": ["hierarchical corporate structure", "chain of command", "centralized management"], "a": "flat organization" },
+    { "s": ["Avant-garde", "Iconoclastic", "Experimental"], "a": "Derivative" },
+    { "s": ["Uninhibited", "Effusive", "Articulate"], "a": "Tongue-tied" },
+    { "s": ["Galvanizing", "Heartening", "Emboldening"], "a": "Demoralizing" },
+    { "s": ["Diplomatic", "Civil", "Deferential"], "a": "Impertinent" },
+    { "s": ["Sagacious", "Level-headed", "Circumspect"], "a": "Impetuous" },
+    { "s": ["Perspicacious", "Incisive", "Discerning"], "a": "Dull-witted" },
+    { "s": ["Indefatigable", "Enterprising", "Purposeful"], "a": "Listless" },
+    { "s": ["Methodical", "Systematic", "Calculating"], "a": "Haphazard" },
+    { "s": ["Receptive", "Tolerant", "Broad-minded"], "a": "Closed-minded" },
+    { "s": ["set the agenda", "shape the narrative", "bury the lede"], "a": "fly under the radar" },
+    { "s": ["news hook", "editorial line", "talking points"], "a": "radio silence" }
+  ],
+  "tongueTwisterData": [
+    {
+      "group": "[v vs w]",
+      "phonemes": ["/v/", "/w/"],
+      "sentences": [
+        "While Wendy was weaving warm wool, Victor verified the velvet voucher and waved at the warehouse window.",
+        "Weary villagers waited in the valley while Vera vowed to video the vivid waterfall."
+      ]
+    },
+    {
+      "group": "[θ (thin) vs s]",
+      "phonemes": ["/θ/", "/s/"],
+      "sentences": [
+        "Three thin thieves thoughtfully threaded thirty silk sashes through thick thistle thorns without a single scratch.",
+        "Theo thinks the thermostat’s theme is subtle, but six students say the setting still seems too stiff."
+      ]
+    },
+    {
+      "group": "[ð (this) vs z]",
+      "phonemes": ["/ð/", "/z/"],
+      "sentences": [
+        "These zealous zoologists gather those zesty datasets, then these analysts theorize why those zebras zigzag.",
+        "Those zero-sum theories puzzle these thinkers, though these others prize those zany, buzzing hypotheses.",
+        "We breathe beneath the eaves while the sea breeze weaves through the leaves; Keith believes the breeze eases if we breathe evenly.",
+        "Please breathe before you seize the sleeves, because the brief breeze freezes the quay; Bree breathed slowly as the breeze teased the trees."
+      ]
+    },
+    {
+      "group": "[f vs h]",
+      "phonemes": ["/f/", "/h/"],
+      "sentences": [
+        "Fiona fried fresh fish while Hank heated hearty hash, and the family felt full before the hikers hurried home.",
+        "Farmers fixed fences as hot winds hissed; later, hikers found the high foothills felt friendly."
+      ]
+    },
+    {
+      "group": "[/ɪ/ (ship) vs /iː/ (sheep)]",
+      "phonemes": ["/ɪ/", "/iː/"],
+      "sentences": [
+        "Pete steered the sleek ship to meet the meek sheep at the steep seaside, while Pip slipped and missed his ticket.",
+        "The fleet needs clean sheets and neat meals, but the little ship’s kitchen still sticks and drips."
+      ]
+    },
+    {
+      "group": "[/ʊ/ (full) vs /uː/ (fool)]",
+      "phonemes": ["/ʊ/", "/uː/"],
+      "sentences": [
+        "Luke stood with a full rucksack by the school, but Lou, the class clown, yelled “Move!” like a fool and tripped over the stool.",
+        "Brooke put books in the full blue cupboard, yet Bruce, too cool, chose to loop the route to the room."
+      ]
+    },
+    {
+      "group": "[/æ/ (cat) vs /e/ (bed)]",
+      "phonemes": ["/æ/", "/e/"],
+      "sentences": [
+        "The black cat napped on Jack’s backpack, while Ben set the red bed near the desk and kept his pen ready.",
+        "Pam had a stack of maps, but Deb kept a set of menus; the cat sat on the mat as the guests headed to bed."
+      ]
+    },
+    {
+      "group": "[/æ/ (cap) vs /ʌ/ (cup)]",
+      "phonemes": ["/æ/", "/ʌ/"],
+      "sentences": [
+        "Pat grabbed a cap and dashed for the cab, while Gus clutched a cup and trudged up the bus steps in a rush.",
+        "Jack packed snacks and caps in a canvas bag; Judd dug up mugs and cups, then snugged them under the truck."
+      ]
+    },
+    {
+      "group": "[/ɒ/ (cot) vs /ɔː/ (caught)]",
+      "phonemes": ["/ɒ/", "/ɔː/"],
+      "sentences": [
+        "Tom got a cotton cot for the cold loft, but Dawn caught a warm thought and bought broad boards for the floor.",
+        "Don locked the shop at one o’clock; Dawn, who’d caught the forecast, bought more salt for the storm."
+      ]
+    },
+    {
+      "group": "[final s /s/ vs z /z/ (rice vs rise)]",
+      "phonemes": ["/s/", "/z/"],
+      "sentences": [
+        "As the sun begins to rise, Rose rinses rice and arranges bowls, while Lewis organizes supplies and closes the doors.",
+        "Denise weighs bags of rice as the prices rise, and Carlos analyzes sales before he files the reports."
+      ]
+    },
+    {
+      "group": "[/aʊn/ vs /ʌn/]",
+      "phonemes": ["/aʊn/", "/ʌn/"],
+      "sentences": [
+        "The town council wrote the rules down, but one young runner was done before the countdown even sounded.",
+        "She counted every noun in the passage and jotted them down, while none of the others had done even one.",
+        "We drove around the brown town at sundown, then ran one lap and were done by sunup.",
+        "A hound on the hunt gave a grunt on the ground, another hound on the hunt heard the grunt and the sound, so he joined in the hunt with a grunt on the ground."
+      ]
+    },
+    {
+      "group": "[/aʊn/ vs /ɒn/]",
+      "phonemes": ["/aʊn/", "/ɒn/"],
+      "sentences": [
+        "He found a one-pound coin on the path, walked to the pond, flipped the pound in the air, and heard it plop into the pond.",
+        "Workers pound wooden posts into the ground around the pond to anchor the rail, while the ranger surveys the pond for frogs.",
+        "Don switched the lights on in the town hall, and the crowd sat down around the brown stage.",
+        "John put on his gown in the old town and wrote the rules down before the camera went on.",
+        "The clown drove around the town at sundown while Don waited on the corner with his badge on.",
+        "We passed around the brown gown for costumes, and John tried it on when his name was called.",
+        "The choir sat down as the town bell rang, and Don turned the microphones on for the next round.",
+        "The teacher told them to note each key noun and write it down, while John kept the timer on.",
+        "The town council pinned a brown crown cutout down, and Don checked whether the sign was still on.",
+        "Tour guides led us around the old town, then John pressed on with the talk while we settled down.",
+        "The judge sat down in the town court, and Don switched on the clock to begin the session.",
+        "We cooled down by the town gate while John left the porch light on so everyone could see."
+      ]
+    },
+    {
+      "group": "[/aʊn/ vs /ɒn/ vs /ʌn/]",
+      "phonemes": ["/aʊn/", "/ɒn/", "/ʌn/"],
+      "sentences": [
+        "Don wrote the rule down, but Don said it was already done.",
+        "The town planned a fair; John put the signs on; by noon the setup was done.",
+        "She counted each noun, skipped each non-example, and marked none as done.",
+        "He tossed a pound to the pond fund and joked that one more pun would get it done.",
+        "They found the trail, ignored the fond detours, and raised a fund when the work was done.",
+        "The hound waited by John while the hungry kids wrote the chores down and got them done.",
+        "We cooled down in the old John-street ton-weight room after the lifts were done.",
+        "She set the sound meter on, greeted her son, and said the tests were almost done.",
+        "The town clock went on at dawn; by dusk a ton of repairs were done.",
+        "He tried the green gown, checked if it was on, then declared the tailoring done.",
+        "The judge wrote down the charge, the clerk put it on file, and the payment was done by noon.",
+        "We passed around the list, pinned it on the board, and crossed off each task as done."
+      ]
+    },
+    {
+      "group": "[/eɪn/ vs /æn/]",
+      "phonemes": ["/eɪn/", "/æn/"],
+      "sentences": [
+        "Jane saw heavy rain, while Jan said he already ran and planned a new plan for the late train.",
+        "We will plan the route before the plane, then write it down so the rain won’t ruin what we planned.",
+        "The baker sifted bran as the intern studied a brain scan and Jane explained the plan again.",
+        "The coach said Stan should avoid a sprain, so stain guards were cleaned after the match and the plan remained the same in the rain.",
+        "Chan drew a chain on the map; the team ran the trail while light rain cooled the plain.",
+        "We can test the cane and the crane on-site, but we can’t switch the plan if the rain delays the plane."
+      ]
+    },
+    {
+      "group": "[/ɒ/ vs /ɔːl/]",
+      "phonemes": ["/ɒ/", "/ɔːl/"],
+      "sentences": [
+        "He placed a camping cot by the wall, then took a call in the hall and forgot the cooking pot.",
+        "Paul checked the pot on the hob, then made the call to install a second cot for the guest.",
+        "The boss saw a chipped ball in the hall, swapped the broken box, and logged the loss.",
+        "We will stock the shop before the lunch stall, then spot each shortfall and restock what we saw on the wall of the hall.",
+        "She hung a winter shawl by the clock, wiped the shop top, and wrote one more call note on the log.",
+        "He set the collar tag correctly so the caller could reach us; later, a loose bottle cap fell near the ball rack while I stirred the pot."
+      ]
+    },
+    {
+      "group": "[/æn/ vs /ɛn/]",
+      "phonemes": ["/æn/", "/ɛn/"],
+      "sentences": [
+        "The man asked the men to pass the map, and the men handed the man a pen.",
+        "Jan planned the route while Jen penned reminders and sent them at ten.",
+        "We set the frying pan beside the red pen, then the chef said the pan can stay but the pen must go.",
+        "If you can, ask Ken to check the van; if Ken cannot, you can send an email.",
+        "We will land the deal today, but we will not lend funds until Monday.",
+        "Do not dump sand in the chute; send the bags to the site instead.",
+        "The team met in Canton while Kenton called in from the road and then sent the agenda.",
+        "The base camp opened at dawn, and Kemp confirmed the permits by ten.",
+        "Brandon mapped the canyon while Brendan amended the tender and sent notes to the panel.",
+        "We moved the fallen branch off the path and then lifted the park bench to the lawn for the event."
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "correct": "second language acquisition",
+      "distractors": [
+        "second-language acquisition",
+        "second language aquisition",
+        "second languages acquisition"
+      ],
+      "translation": "二语习得"
+    }
+  ],
+  "minimalPairs": [
+    { "correct": "desert", "distractor": "dessert" },
+    { "correct": "metal", "distractor": "medal" },
+    { "correct": "ship", "distractor": "sheep" },
+    { "correct": "live", "distractor": "leave" },
+    { "correct": "bit", "distractor": "beat" },
+    { "correct": "sit", "distractor": "seat" },
+    { "correct": "fill", "distractor": "feel" },
+    { "correct": "full", "distractor": "fool" },
+    { "correct": "pull", "distractor": "pool" },
+    { "correct": "rich", "distractor": "reach" },
+    { "correct": "slip", "distractor": "sleep" },
+    { "correct": "rid", "distractor": "reed" },
+    { "correct": "bin", "distractor": "bean" },
+    { "correct": "hid", "distractor": "heed" },
+    { "correct": "wick", "distractor": "week" },
+    { "correct": "mill", "distractor": "meal" },
+    { "correct": "pill", "distractor": "peel" },
+    { "correct": "still", "distractor": "steel" },
+    { "correct": "grin", "distractor": "green" },
+    { "correct": "lick", "distractor": "leak" },
+    { "correct": "fit", "distractor": "feet" },
+    { "correct": "list", "distractor": "least" },
+    { "correct": "sick", "distractor": "seek" },
+    { "correct": "chip", "distractor": "cheap" },
+    { "correct": "pitch", "distractor": "peach" },
+    { "correct": "pan", "distractor": "pen" },
+    { "correct": "bad", "distractor": "bed" },
+    { "correct": "bat", "distractor": "bet" },
+    { "correct": "man", "distractor": "men" },
+    { "correct": "back", "distractor": "beck" },
+    { "correct": "jam", "distractor": "gem" },
+    { "correct": "pack", "distractor": "peck" },
+    { "correct": "mat", "distractor": "met" },
+    { "correct": "sad", "distractor": "said" },
+    { "correct": "ham", "distractor": "hem" },
+    { "correct": "cap", "distractor": "cup" },
+    { "correct": "back", "distractor": "buck" },
+    { "correct": "bat", "distractor": "but" },
+    { "correct": "pan", "distractor": "pun" },
+    { "correct": "bag", "distractor": "bug" },
+    { "correct": "cut", "distractor": "cot" },
+    { "correct": "luck", "distractor": "lock" },
+    { "correct": "duck", "distractor": "dock" },
+    { "correct": "mug", "distractor": "mog" },
+    { "correct": "sun", "distractor": "son" },
+    { "correct": "foot", "distractor": "food" },
+    { "correct": "full", "distractor": "fool" },
+    { "correct": "pull", "distractor": "pool" },
+    { "correct": "could", "distractor": "cooed" },
+    { "correct": "wood", "distractor": "wooed" },
+    { "correct": "late", "distractor": "let" },
+    { "correct": "made", "distractor": "med" },
+    { "correct": "sale", "distractor": "sell" },
+    { "correct": "pain", "distractor": "pen" },
+    { "correct": "tail", "distractor": "tell" },
+    { "correct": "not", "distractor": "note" },
+    { "correct": "cot", "distractor": "coat" },
+    { "correct": "rod", "distractor": "road" },
+    { "correct": "got", "distractor": "goat" },
+    { "correct": "hop", "distractor": "hope" },
+    { "correct": "rob", "distractor": "robe" },
+    { "correct": "con", "distractor": "cone" },
+    { "correct": "cod", "distractor": "code" },
+    { "correct": "tot", "distractor": "toad" },
+    { "correct": "on", "distractor": "own" },
+    { "correct": "law", "distractor": "low" },
+    { "correct": "walk", "distractor": "woke" },
+    { "correct": "cork", "distractor": "coke" },
+    { "correct": "bought", "distractor": "boat" },
+    { "correct": "saw", "distractor": "so" },
+    { "correct": "born", "distractor": "bone" },
+    { "correct": "form", "distractor": "foam" },
+    { "correct": "short", "distractor": "shot" },
+    { "correct": "ground", "distractor": "grunt" },
+    { "correct": "pet", "distractor": "fat" },
+    { "correct": "collar", "distractor": "caller" },
+    { "correct": "pool", "distractor": "pole" },
+    { "correct": "goal", "distractor": "gall" },
+    { "correct": "dole", "distractor": "doll" },
+    { "correct": "coat", "distractor": "court" },
+    { "correct": "foal", "distractor": "fall" },
+    { "correct": "code", "distractor": "cawed" },
+    { "correct": "load", "distractor": "loud" },
+    { "correct": "rode", "distractor": "rod" },
+    { "correct": "tone", "distractor": "ton" },
+    { "correct": "heat", "distractor": "hit" },
+    { "correct": "beat", "distractor": "bit" },
+    { "correct": "heel", "distractor": "hill" },
+    { "correct": "peel", "distractor": "pill" },
+    { "correct": "leap", "distractor": "lip" },
+    { "correct": "pen", "distractor": "pin" },
+    { "correct": "set", "distractor": "sit" },
+    { "correct": "men", "distractor": "min" },
+    { "correct": "bed", "distractor": "bid" },
+    { "correct": "ledge", "distractor": "lid" },
+    { "correct": "cap", "distractor": "cab" },
+    { "correct": "rip", "distractor": "rib" },
+    { "correct": "cup", "distractor": "cub" },
+    { "correct": "back", "distractor": "bag" },
+    { "correct": "pick", "distractor": "pig" },
+    { "correct": "glass", "distractor": "grass" },
+    { "correct": "right", "distractor": "light" },
+    { "correct": "rice", "distractor": "lice" },
+    { "correct": "road", "distractor": "load" },
+    { "correct": "vest", "distractor": "west" },
+    { "correct": "thin", "distractor": "tin" },
+    { "correct": "think", "distractor": "sink" },
+    { "correct": "seat", "distractor": "sheet" },
+    { "correct": "sip", "distractor": "ship" },
+    { "correct": "sale", "distractor": "shale" },
+    { "correct": "sin", "distractor": "sing" },
+    { "correct": "run", "distractor": "rung" },
+    { "correct": "fan", "distractor": "fang" },
+    { "correct": "tan", "distractor": "tang" },
+    { "correct": "thin", "distractor": "thing" },
+    { "correct": "a big ship", "distractor": "a big sheep" },
+    { "correct": "I live here", "distractor": "I leave here" },
+    { "correct": "sit down, please", "distractor": "seat down, please" },
+    { "correct": "fill the bin", "distractor": "feel the bean" },
+    { "correct": "pull the door", "distractor": "pool the door" },
+    { "correct": "a black pen", "distractor": "a black pan" },
+    { "correct": "bad weather", "distractor": "bed weather" },
+    { "correct": "that man is tall", "distractor": "that men are tall" },
+    { "correct": "pack your bag", "distractor": "peck your bag" },
+    { "correct": "sit on the mat", "distractor": "sit on the met" },
+    { "correct": "cap on the desk", "distractor": "cup on the desk" },
+    { "correct": "a bat in the box", "distractor": "a but in the box" },
+    { "correct": "back to class", "distractor": "buck to class" },
+    { "correct": "pan of soup", "distractor": "pun of soup" },
+    { "correct": "bag of rice", "distractor": "bug of rice" },
+    { "correct": "cut the rope", "distractor": "cot the rope" },
+    { "correct": "lucky day", "distractor": "locky day" },
+    { "correct": "a duck there", "distractor": "a dock there" },
+    { "correct": "the sun is up", "distractor": "the son is up" },
+    { "correct": "foot on the brake", "distractor": "food on the brake" },
+    { "correct": "late for class", "distractor": "let for class" },
+    { "correct": "tail is short", "distractor": "tell is short" },
+    { "correct": "not today", "distractor": "note today" },
+    { "correct": "got a ticket", "distractor": "goat a ticket" },
+    { "correct": "hop over it", "distractor": "hope over it" },
+    { "correct": "he called me", "distractor": "he caught me" },
+    { "correct": "the road is busy", "distractor": "the load is busy" },
+    { "correct": "right side", "distractor": "light side" },
+    { "correct": "thin book", "distractor": "tin book" },
+    { "correct": "seat is taken", "distractor": "sheet is taken" }
+  ]
 }
